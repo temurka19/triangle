@@ -1,0 +1,33 @@
+C:\Users\tvaxt\source\repos\Triangle\bin\Debug\net6.0-windows\Triangle.exe
+C:\Users\tvaxt\source\repos\Triangle\bin\Debug\net6.0-windows\Triangle.deps.json
+C:\Users\tvaxt\source\repos\Triangle\bin\Debug\net6.0-windows\Triangle.runtimeconfig.json
+C:\Users\tvaxt\source\repos\Triangle\bin\Debug\net6.0-windows\Triangle.dll
+C:\Users\tvaxt\source\repos\Triangle\bin\Debug\net6.0-windows\Triangle.pdb
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.Form1.resources
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.GenerateResource.cache
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfoInputs.cache
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfo.cs
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.dll
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\refint\Triangle.dll
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.pdb
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\Triangle.genruntimeconfig.cache
+C:\Users\tvaxt\source\repos\Triangle\obj\Debug\net6.0-windows\ref\Triangle.dll
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.AssemblyReference.cache
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.Form1.resources
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.GenerateResource.cache
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfoInputs.cache
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfo.cs
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.dll
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\refint\Triangle.dll
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.pdb
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\bin\Debug\net6.0-windows\Triangle.exe
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\bin\Debug\net6.0-windows\Triangle.deps.json
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\bin\Debug\net6.0-windows\Triangle.runtimeconfig.json
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\bin\Debug\net6.0-windows\Triangle.dll
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\bin\Debug\net6.0-windows\Triangle.pdb
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\Triangle.genruntimeconfig.cache
+C:\Users\idris\OneDrive\Рабочий стол\Triangle\obj\Debug\net6.0-windows\ref\Triangle.dll
